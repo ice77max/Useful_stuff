@@ -80,6 +80,8 @@ https://kenney.nl/
 
 https://thebookofshaders.com/
 
+https://huggingface.co/spaces/depth-anything/Depth-Anything-V2
+
 ### 3D AI
 
 https://hyper3d.ai/
